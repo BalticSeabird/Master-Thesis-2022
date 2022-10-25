@@ -1,0 +1,6 @@
+[submodule "trackers/ByteTrack"]
+	path = trackers/ByteTrack
+	url = https://github.com/ShreyashKad/ByteTrack
+[submodule "trained_detector/yolov5"]
+	path = trained_detector/yolov5
+	url = https://github.com/ShreyashKad/yolov5
