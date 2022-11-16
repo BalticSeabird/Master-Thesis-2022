@@ -4,3 +4,6 @@
 [submodule "trained_detector/yolov5"]
 	path = trained_detector/yolov5
 	url = https://github.com/ShreyashKad/yolov5
+[submodule "trained_detector/DeepLabCut"]
+	path = trained_detector/DeepLabCut
+	url = https://github.com/hanesM/DeepLabCut
